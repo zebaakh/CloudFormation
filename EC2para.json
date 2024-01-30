@@ -1,11 +1,15 @@
 [
-    {
-      "ParameterKey": "InstanceType",
-      "ParameterValue": "t2.micro"
-    },
-    {
-      "ParameterKey": "KeyName",
-      "ParameterValue": "devops"
-    }
-  ]
+{
+    "ParameterKey": "InstanceName",
+    "ParameterValue": "EC2Instance"
+},
+{
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+},
+{
+    "ParameterKey": "KeyName",
+    "ParameterValue": "devops"
+}
+]
   
